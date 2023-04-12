@@ -3,14 +3,10 @@ This repository contains the smart contracts source code. We are using Protostar
 
   ## What is Morphine
   
-Morphine offers powerful and versatile tools to build, scale, manage and monetize on-chain strategies.
+Morphine is a L2 based infrastructure providing secured passif management through crypto lending and flexible actif management allowing users to access composable leverage and set rebalancing automations.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtT497TblSFFiwqDYCfDC%2Fuploads%2FH0hkC4fnoKVaqWxHwuYl%2Fimage.png?alt=media&token=a221e717-8cda-46f7-bf7e-aa53435e4482)
   
 # 🕹️ Getting started
-
-  
-
 - Clone this repo
 
 (We recommend working inside a Python virtual environment)
